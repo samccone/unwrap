@@ -1,0 +1,16 @@
+{
+  "name": "un-umd",
+  "dependencies": {
+    "uglify-js": "~2.4.13"
+  },
+  "bin": {
+    "unwrap": "bin/unwrap"
+  },
+  "main": "unwrap.js",
+  "devDependencies": {
+    "mocha": "~1.18.2"
+  },
+  "scripts": {
+    "test": "mocha test"
+  }
+}
