@@ -1,5 +1,5 @@
 {
-  "name": "un-umd",
+  "name": "unwrap",
   "dependencies": {
     "uglify-js": "~2.4.13"
   },
@@ -12,5 +12,25 @@
   },
   "scripts": {
     "test": "mocha test"
-  }
+  },
+  "description": "unwrap ========",
+  "version": "0.1.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samccone/unwrap.git"
+  },
+  "keywords": [
+    "unwrap",
+    "umd",
+    "ast"
+  ],
+  "author": "Sam Saccone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samccone/unwrap/issues"
+  },
+  "homepage": "https://github.com/samccone/unwrap"
 }
