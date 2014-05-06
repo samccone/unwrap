@@ -1,6 +1,6 @@
 <h1 align="center">unwrap</h1>
 <p align="center">
-  <img src="https://github.com/samccone/unwrap/blob/master/logo.png"/>
+  <img src="https://raw.githubusercontent.com/samccone/unwrap/master/logo.png"/>
 </p>
 
 A tool to remove a UMD wrap from a given file.
