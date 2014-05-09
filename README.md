@@ -4,7 +4,7 @@
 </p>
 
 A tool to remove a UMD wrap from a given file.
-
+[![Build Status](https://travis-ci.org/samccone/unwrap.svg)](https://travis-ci.org/samccone/unwrap)
 
 ## How To
 
